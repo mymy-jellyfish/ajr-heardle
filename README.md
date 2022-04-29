@@ -1,12 +1,14 @@
 # the-weeknd-heardle
 
-_[The Weeknd Heardle](https://the-weeknd-heardle.glitch.me/) (or Zeardle, if you will) by [@eggtartemily](https://twitter.com/eggtartemily)_
+_[The Weeknd Heardle](https://the-weeknd-heardle-2.glitch.me/) by [@mariomrtsnz](https://github.com/mariomrtsnz)_
+
+I make music by the name of [@Kurobs](https://open.spotify.com/artist/6SVSdsy9Fse9u3bGnlfSfZ?si=c93W_LqaTsuMa6MpCpZuXg) check me out on any streaming platform.
 
 Updated as of April 26, 2022
 
 This is a spin-off of the original [Heardle](https://www.heardle.app/) but for The Weeknd songs. Each song is randomly chosen from his discography, including features. I do not own any rights to the songs used in this game. All copyright goes to The Weeknd, XO / Republic Records, and other relevant parties.
 
-FYI: I am not a web developer. If you find a bug or have any questions, DM me on Instagram ([@emilyomgee](https://instagram.com/emilyomgee)) or Twitter ([@eggtartemily](https://twitter.com/eggtartemily)).
+Any questions or bugs feel free to, DM me on Instagram ([@kurobs_official](https://www.instagram.com/kurobs_official/)).
 
 ### How to create your own custom Heardle
 
