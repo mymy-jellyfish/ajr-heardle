@@ -3788,7 +3788,7 @@ var app = (function () {
       c() {
         (n = w("div")),
           (n.innerHTML =
-            '<p class="mb-3">A clone of <a href="https://www.heardle.app/" title="Heardle">Heardle</a> but for The Weeknd songs. Each song is randomly chosen from his discography, including features.</p> \n\n<p class="mb-3">Made by <a href="https://twitter.com/eggtartemily">@eggtartemily</a>. All copyright goes to The Weeknd, XO / Republic Records, and other relevant parties.</p> \n\n\n\n <p class="mb-3">  </p>  \n\n\n\n <p class="text-xs mb-3 text-custom-line">Prepared with <a href="https://developers.soundcloud.com">SoundCloud</a>\n and powered by <a href="https://glitch.com/">Glitch</a>. See the source code <a href="https://glitch.com/edit/#!/the-weeknd-heardle-2">here</a>.'),
+            '<p class="mb-3">A clone of <a href="https://www.heardle.app/" title="Heardle">Heardle</a> but for The Weeknd songs. Each song is randomly chosen from his discography, including features.</p> \n\n<p class="mb-3">Made by <a href="https://www.instagram.com/kurobs_official/">@kurobs_official</a>. All copyright goes to The Weeknd, XO / Republic Records, and other relevant parties.</p> \n\n\n\n <p class="mb-3"> I also make music by the name of <a href="https://open.spotify.com/artist/6SVSdsy9Fse9u3bGnlfSfZ?si=c93W_LqaTsuMa6MpCpZuXg">Kurobs</a> check me out on any streaming platform. </p>  \n\n\n\n <p class="text-xs mb-3 text-custom-line">Prepared with <a href="https://developers.soundcloud.com">SoundCloud</a>\n and powered by <a href="https://glitch.com/">Glitch</a>. See the source code <a href="https://glitch.com/edit/#!/the-weeknd-heardle-2">here</a>.'),
           M(n, "class", "text");
       },
       m(e, t) {
@@ -4067,8 +4067,8 @@ var app = (function () {
       "If it ain't XO then it gotta go",
       "You're professional",
       "She asked me if I do this every day",
-      "So here we go again",
       "Go tell your friends about it",
+      "So here we go again",
       "Tryna keep it up don't seem so simple",
       "You'll be falling to the point of no return",
     ];
