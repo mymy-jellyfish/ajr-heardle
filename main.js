@@ -4066,7 +4066,7 @@ var app = (function () {
     Jt = [
       "If it ain't XO then it gotta go",
       "You're professional",
-      "She asked me if I do this every day",
+      "Asked me if I do this every day",
       "Go tell your friends about it",
       "So here we go again",
       "Tryna keep it up don't seem so simple",
