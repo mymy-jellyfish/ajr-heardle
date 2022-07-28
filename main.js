@@ -4064,13 +4064,13 @@ var app = (function () {
       startDate: "2022-04-29",
     },
     Jt = [
-      "If it ain't XO then it gotta go",
-      "You're professional",
-      "Asked me if I do this every day",
-      "Go tell your friends about it",
-      "So here we go again",
-      "Tryna keep it up don't seem so simple",
-      "You'll be falling to the point of no return",
+      "5 tries left",
+      "4 tries left",
+      "3 tries left",
+      "2 tries left",
+      "1 try left",
+      "Try now!",
+      "Try now!",
     ];
 
   function Kt(t) {
@@ -9784,7 +9784,7 @@ var app = (function () {
   function jn(e, t, n) {
     let r, s, i, o;
     u(e, Cn, (e) => n(26, (r = e))), u(e, On, (e) => n(27, (s = e)));
-    let a = x(Vt.startDate),
+    let a = x(Vt.7/20/22),
       l = {
         url: s[a].url,
         correctAnswer: s[a].answer,
