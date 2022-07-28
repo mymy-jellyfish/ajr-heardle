@@ -773,7 +773,7 @@ var app = (function () {
             Q(a.$$.fragment),
             (l = x()),
             (u = w("h1")),
-            (u.textContent = "The Weeknd Heardle"),
+            (u.textContent = "AJR Heardle"),
             (c = x()),
             (d = w("div")),
             Q(h.$$.fragment),
