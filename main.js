@@ -3788,7 +3788,7 @@ var app = (function () {
       c() {
         (n = w("div")),
           (n.innerHTML =
-            '<p class="mb-3">A clone of <a href="https://www.heardle.app/" title="Heardle">Heardle</a> but for The Weeknd songs. Each song is randomly chosen from his discography, including features.</p> \n\n<p class="mb-3">Made by mariomrtsnz</a>. All copyright goes to The Weeknd, XO / Republic Records, and other relevant parties.</p> \n\n\n\n <p class="mb-3"> I also make music by the name of <a href="https://open.spotify.com/artist/6SVSdsy9Fse9u3bGnlfSfZ?si=c93W_LqaTsuMa6MpCpZuXg">Kurobs</a> check me out on any streaming platform. </p>  \n\n\n\n <p class="text-xs mb-3 text-custom-line">Prepared with <a href="https://developers.soundcloud.com">SoundCloud</a>\n and powered by <a href="https://glitch.com/">Glitch</a>. See the source code <a href="https://glitch.com/edit/#!/the-weeknd-heardle-2">here</a>.'),
+            '<p class="mb-3">A clone of <a href="https://www.heardle.app/" title="Heardle">Heardle</a> but for AJR songs. Each song is randomly chosen from their discography, including features.</p> \n\n<p class="mb-3">Made by mariomrtsnz</a>. All copyright goes to AJR and other relevant parties.</p> \n\n\n\n <p class="mb-3"> I also make music by the name of <a href="https://open.spotify.com/artist/6SVSdsy9Fse9u3bGnlfSfZ?si=c93W_LqaTsuMa6MpCpZuXg">Kurobs</a> check me out on any streaming platform. </p>  \n\n\n\n <p class="text-xs mb-3 text-custom-line">Prepared with <a href="https://developers.soundcloud.com">SoundCloud</a>\n and powered by <a href="https://glitch.com/">Glitch</a>. See the source code <a href="https://glitch.com/edit/#!/the-weeknd-heardle-2">here</a>.'),
           M(n, "class", "text");
       },
       m(e, t) {
@@ -4196,14 +4196,14 @@ var app = (function () {
             (f = w("div")),
             (m = w("div")),
             (k = w("div")),
-            (k.textContent = "Next The Weeknd song in:"),
+            (k.textContent = "Next AJR song in:"),
             (b = x()),
             Q(S.$$.fragment),
             (D = x()),
             (T = w("div")),
             (Y = w("div")),
             // (Y.innerHTML =
-            //   '<span class="text-custom-negative"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="currentColor" stroke="" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path></svg></span> \n                <span class="px-1">The Weeknd Heardle?</span>'),
+            //   '<span class="text-custom-negative"><svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="currentColor" stroke="" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path></svg></span> \n                <span class="px-1">AJR Heardle?</span>'),
             (C = x()),
             Q(O.$$.fragment),
             M(n, "class", "text-lg text-custom-line"),
@@ -4421,7 +4421,7 @@ var app = (function () {
       s = (e[0].length * e[1].attemptInterval) / 1e3 + "";
     return {
       c() {
-        (t = _("You got today's The Weeknd Heardle within the first ")),
+        (t = _("You got today's AJR Heardle within the first ")),
           (n = _(s)),
           (r = _(" seconds."));
       },
@@ -4449,7 +4449,7 @@ var app = (function () {
       a = e[1].attemptIntervalAlt[e[0].length - 1] / 1e3 > 1 ? "s" : "";
     return {
       c() {
-        (t = _("You got today's The Weeknd Heardle within ")),
+        (t = _("You got today's AJR Heardle within ")),
           (n = _(o)),
           (r = _("\n                second")),
           (s = _(a)),
@@ -4481,7 +4481,7 @@ var app = (function () {
     return {
       c() {
         n = _(
-          "You didn't get today's The Weeknd Heardle. Better luck tomorrow!"
+          "You didn't get today's AJR Heardle. Better luck tomorrow!"
         );
       },
       m(e, t) {
@@ -4628,7 +4628,7 @@ var app = (function () {
         c,
         () => {
           // console.log('answer', r.length)
-          let e = "The Weeknd Heardle #" + (s.id + 1),
+          let e = "AJR Heardle #" + (s.id + 1),
             t = "";
           a
             ? r.length < i.maxAttempts / 3
@@ -4734,7 +4734,7 @@ var app = (function () {
           (t = w("div")),
             (n = w("div")),
             (n.innerHTML =
-              '<div class="mr-4 w-8 text-custom-line"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-7 w-7"><circle cx="5.5" cy="17.5" r="2.5"></circle><circle cx="17.5" cy="15.5" r="2.5"></circle><path d="M8 17V5l12-2v12"></path></svg></div> \n        <div><p>Listen to the intro, then find the correct The Weeknd song in the list.</p></div>'),
+              '<div class="mr-4 w-8 text-custom-line"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-7 w-7"><circle cx="5.5" cy="17.5" r="2.5"></circle><circle cx="17.5" cy="15.5" r="2.5"></circle><path d="M8 17V5l12-2v12"></path></svg></div> \n        <div><p>Listen to the intro, then find the correct AJR song in the list.</p></div>'),
             (r = x()),
             (s = w("div")),
             (s.innerHTML =
@@ -9633,12 +9633,12 @@ var app = (function () {
           Q(Y.$$.fragment),
           (C = x()),
           H && H.c(),
-          (An.title = "The Weeknd Heardle"),
+          (An.title = "AJR Heardle"),
           M(t, "name", "description"),
           M(
             t,
             "content",
-            "Guess the The Weeknd song from the intro in as few tries as possible"
+            "Guess the AJR song from the intro in as few tries as possible"
           ),
           M(n, "rel", "apple-touch-icon"),
           M(n, "sizes", "180x180"),
