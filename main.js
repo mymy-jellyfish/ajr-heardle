@@ -9067,8 +9067,6 @@ var app = (function () {
       "AJR - Drama",
       "AJR - Role Models",
       "AJR - Pitchfork Kids",
-      "AJR - Bud Like You",
-      "AJR - Pretender",
       "AJR - I'm Not Famous",
       "AJR - 100 Bad Days",
       "AJR - Wow, I'm Not Crazy",
@@ -9154,8 +9152,8 @@ var app = (function () {
             answer: "AJR - Pitchfork Kids",
           },
           {
-            url: "https://soundcloud.com/theweeknd/all-i-know-1",
-            answer: "The Weeknd - All I Know (feat. Future)",
+            url: "https://soundcloud.com/ajrbrothers/im-not-famous",
+            answer: "AJR - I'm Not Famous",
           },
           {
             url: "https://soundcloud.com/theweeknd/earned-it-fifty-shades-of-4",
